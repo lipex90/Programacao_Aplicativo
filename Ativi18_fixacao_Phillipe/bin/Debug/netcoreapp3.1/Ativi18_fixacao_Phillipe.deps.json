@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ativi18_fixacao_Phillipe/1.0.0": {
+        "runtime": {
+          "Ativi18_fixacao_Phillipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ativi18_fixacao_Phillipe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

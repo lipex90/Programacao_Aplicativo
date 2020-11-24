@@ -1,0 +1,13 @@
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\bin\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.exe
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\bin\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.deps.json
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\bin\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.runtimeconfig.json
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\bin\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.runtimeconfig.dev.json
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\bin\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.dll
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\bin\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.pdb
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.csprojAssemblyReference.cache
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.AssemblyInfoInputs.cache
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.AssemblyInfo.cs
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.csproj.CoreCompileInputs.cache
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.dll
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.pdb
+C:\Users\liped\source\repos\Ativi18_fixacao_Phillipe\Ativi18_fixacao_Phillipe\obj\Debug\netcoreapp3.1\Ativi18_fixacao_Phillipe.genruntimeconfig.cache
